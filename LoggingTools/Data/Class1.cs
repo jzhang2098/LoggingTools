@@ -8,5 +8,7 @@ namespace LoggingTools.Data
     public class Class1
     {
         private string test = string.Empty;
+
+        private string test2 = string.Empty;
     }
 }
