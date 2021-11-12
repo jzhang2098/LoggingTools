@@ -5,8 +5,7 @@ using System.Threading.Tasks;
 
 namespace LoggingTools.Data
 {
-    public class Class1
+    public class Class2
     {
-        private string test = string.Empty;
     }
 }
